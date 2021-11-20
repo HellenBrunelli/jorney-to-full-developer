@@ -1,2 +1,4 @@
-# jorney-to-full-developer
-My study path to become a full developer
+# Jornada de Dev Junior para Dev Pleno
+
+
+Minha jornada de estudos para me tornar Dev pleno :)
